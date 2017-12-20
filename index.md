@@ -1,37 +1,5 @@
-## Welcome to GitHub Pages
+## Welcome to The Elevator Master Project
 
-You can use the [editor on GitHub](https://github.com/dusking/times/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Do you also straggle everyday with the existential question of: Should I take the regular elevator or should I take the cargo elevator? The regular elevator is very quick - but I need to take 2 regular elevators if I'm comming from the parking space. The cargo elevator can take me from the parking space to the office floor without changing elevators - but I will have to wait more time to it. So which one will bring me faster to the office?
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dusking/times/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Don't you worry, we're here to the rescue. Each time you use some elevator - use the following buttons to add you travel time. Like this the system will have the travel time in each elevator type (regualr vs cargo) - for every day and hour, and will give you the statistic recommended behaviour.
